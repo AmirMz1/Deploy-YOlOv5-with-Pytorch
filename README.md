@@ -7,7 +7,6 @@ your can run model one image, video and webcam
 ```
 pip install pytorch
 pip install opencv-python
-pip install Pillow
 ```
 
 ## RUN
